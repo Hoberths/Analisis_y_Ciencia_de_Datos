@@ -21,3 +21,8 @@ Como Desarrollador SQL, se implementó lógica de negocio avanzada directamente 
 ## 📊 Impacto y Resultados (Power BI)
 * **Eficiencia Logística:** El 92.13% de los pedidos llegaron a tiempo. Se comprobó una correlación inversa donde entregas mayores a 14 días desploman la calificación a 1 estrella.
 * **Foco Comercial:** São Paulo y Río de Janeiro concentran más del 60% de la demanda, justificando la priorización de infraestructura (Dark Stores) en estas zonas.
+
+## 👥 Equipo de Trabajo
+Este proyecto fue desarrollado en colaboración como parte del curso de Bases de Datos y Big Data:
+* **Hoberths Santiago Zarzosa Ramos:** Desarrollador SQL y Analista de Datos.
+* **Grace Nicole Vasquez Ipanaque:** [Analista ETL y Documentación] - [LinkedIn](https://www.linkedin.com/in/gracevasquezip/)
