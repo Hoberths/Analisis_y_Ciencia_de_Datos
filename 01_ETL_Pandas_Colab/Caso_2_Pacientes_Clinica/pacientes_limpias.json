@@ -1,0 +1,26 @@
+[
+    {
+        "dni":12345678,
+        "nombre":"JUAN PEREZ",
+        "edad":25,
+        "sexo":"M",
+        "telefono":987654321.0,
+        "diagnostico":"gripe"
+    },
+    {
+        "dni":22334455,
+        "nombre":"ANA TORRES",
+        "edad":40,
+        "sexo":"F",
+        "telefono":998877665.0,
+        "diagnostico":"diabetes"
+    },
+    {
+        "dni":33445566,
+        "nombre":"LUIS GOMEZ",
+        "edad":35,
+        "sexo":"M",
+        "telefono":"Sin telefono",
+        "diagnostico":"hipertension"
+    }
+]

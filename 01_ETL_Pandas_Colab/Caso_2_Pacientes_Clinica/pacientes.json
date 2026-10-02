@@ -1,0 +1,9 @@
+[
+  {"dni": "12345678", "nombre": "juan perez", "edad": 25, "sexo": "M", "telefono": "987654321", "diagnostico": "gripe"},
+  {"dni": "12345678", "nombre": "JUAN PEREZ", "edad": 25, "sexo": "Masculino", "telefono": null, "diagnostico": "gripe"},
+  {"dni": "87654321", "nombre": "Maria Lopez", "edad": -5, "sexo": "F", "telefono": "912345678", "diagnostico": "covid"},
+  {"dni": "11223344", "nombre": "Carlos Ruiz", "edad": 130, "sexo": "male", "telefono": null, "diagnostico": null},
+  {"dni": "22334455", "nombre": "Ana Torres", "edad": 40, "sexo": "Femenino", "telefono": "998877665", "diagnostico": "diabetes"},
+  {"dni": "33445566", "nombre": "Luis Gomez", "edad": 35, "sexo": "M", "telefono": null, "diagnostico": "hipertension"}
+]
+
